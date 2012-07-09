@@ -4,12 +4,6 @@ A Raytracer utilizing OpenCL.<br />
 Written by Mark Becker, Cameron Brown
 <hr>
 <ul>
-<font size='4'><b>Features</b></font><ul>
-<li>Standalone application
-<li>Short and Long Form
-<li>Low processor usage
-<li>Simple to use
-</ul><br/>
 <font size='4'><b>Project description</b></font><ul>
 General-purpose computing on graphics processing units (GPGPU) is a relatively new field <br />
 that uses the graphical processing unit’s (GPU) processing architecture. GPUs are normally <br />
